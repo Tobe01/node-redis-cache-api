@@ -62,8 +62,8 @@ Second request → Fetches from Redis cache (faster)
 ## 📄 License
 MIT License
 
-##✍ Author
-_Tobechi Duru_
+## ✍ Author
+*Tobechi Duru*
 *GitHub: @Tobe01*
 *Hashnode: [https://hashnode.com/@tobechiduru*
 *LinkedIn: [https://linkedin.com/in/tobechiduru]*
