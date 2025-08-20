@@ -30,7 +30,7 @@ node-redis-cache-api/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/<your-username>/node-redis-cache-api.git
+   git clone https://github.com/tobe01/node-redis-cache-api.git
    cd node-redis-cache-api
    ```
 ## Install dependencies:
